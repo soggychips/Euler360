@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnIntegerSpheres.js">
+    <Files>
+      <File FileName="Assets/Scripts/Info.js" Line="5" Column="13" />
+      <File FileName="Assets/Scripts/SpawnIntegerSpheres.js" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/sphereInfo.js" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
